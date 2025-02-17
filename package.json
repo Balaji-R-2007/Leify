@@ -1,0 +1,28 @@
+{
+  "name": "leify",
+  "version": "1.0.0",
+  "description": "hi hello",
+  "main": "server/index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.mjs"
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Balaji-R-2007/Leify.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Balaji-R-2007/Leify/issues"
+  },
+  "homepage": "https://github.com/Balaji-R-2007/Leify#readme",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongoose": "^8.10.1"
+  }
+}
